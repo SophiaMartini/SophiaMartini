@@ -26,7 +26,7 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
 </br>
 </br>
-📫 Você pode falar comigo pelo [Gmail](sopmartinidea@gmail.com) ou pelo [Instagram](https://instagram.com/sopmartinia_). Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
+📫 Você pode falar comigo pelo [Gmail]<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>) ou pelo [Instagram](https://instagram.com/sopmartinia_). Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
 ****
 📫 You can contact me via [Gmail](sopmartinidea@gmail.com) or [Instagram](https://instagram.com/sopmartinia_). Feel free to check out my previously developed projects, available here in the repositories.
 </br>
