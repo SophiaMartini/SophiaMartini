@@ -2,11 +2,11 @@
 </br>
 </br>
 </br>
-<strong>Hello, guyss!</strong>
+<h4><strong>Hello, guyss!</strong></h4>
 <br/>- ✍🏻 I work as a student of system development technician of SENAC - DF 
 <br/>- 💡 I try to focus on improve my knowledge
 </br>- 🇧🇷  Brasilia - Brazil
-- 🔊 English and Spanish speaker
+</br>- 🔊 English and Spanish speaker
   
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -28,6 +28,8 @@
 </br>
 
 📫 Você pode falar comigo pelo [Gmail](sopmartinidea@gmail.com) ou pelo [Instagram](https://instagram.com/sopmartinia_) Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
+</br>
+📫 You can contact me via [Gmail](sopmartinidea@gmail.com) or [Instagram](https://instagram.com/sopmartinia_). Feel free to check out my previously developed projects, available here in the repositories.
 
 </br>
 
@@ -42,7 +44,7 @@
  
 </a>
 </p>
- ### TROPHIES
+<h3><strong>TROPHIES</strong></h3>
  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SophiaMartini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
