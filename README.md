@@ -29,6 +29,8 @@
 
 📫 Você pode falar comigo pelo [Gmail](sopmartinidea@gmail.com) ou pelo [Instagram](https://instagram.com/sopmartinia_) Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
 </br>
+</br>
+</br>
 📫 You can contact me via [Gmail](sopmartinidea@gmail.com) or [Instagram](https://instagram.com/sopmartinia_). Feel free to check out my previously developed projects, available here in the repositories.
 
 </br>
@@ -53,7 +55,7 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/SophiaMartini/count.svg" />
  </p>
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.ibb.co/C5rtHLd/jeni01.png">
+
 </br>
 </br>
 </br>
