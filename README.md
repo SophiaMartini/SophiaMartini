@@ -26,13 +26,9 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
 </br>
 </br>
-
 📫 Você pode falar comigo pelo [Gmail](sopmartinidea@gmail.com) ou pelo [Instagram](https://instagram.com/sopmartinia_). Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
-</br>
 ****
-</br>
 📫 You can contact me via [Gmail](sopmartinidea@gmail.com) or [Instagram](https://instagram.com/sopmartinia_). Feel free to check out my previously developed projects, available here in the repositories.
-
 </br>
 
 <a href="https://www.instagram.com/sopmartinia_" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
