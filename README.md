@@ -22,13 +22,10 @@
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 
-
-</br>
 </br>
 </br>
 
 📫 Você pode falar comigo pelo [Gmail](sopmartinidea@gmail.com) ou pelo [Instagram](https://instagram.com/sopmartinia_) Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
-</br>
 </br>
 </br>
 📫 You can contact me via [Gmail](sopmartinidea@gmail.com) or [Instagram](https://instagram.com/sopmartinia_). Feel free to check out my previously developed projects, available here in the repositories.
