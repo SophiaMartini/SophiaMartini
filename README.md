@@ -40,9 +40,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sophiamartini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sophiamartini&layout=compact&langs_count=8&theme=algolia"/>
  
- [![SophiaMartini github stats](https://bad-apple-github-readme.vercel.app/api?username=SophiaMartini&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-[![SophiaMartini current streak](https://streak-stats.demolab.com/?user=SophiaMartini&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 </a>
 </p>
  ### TROPHIES
