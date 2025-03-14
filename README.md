@@ -27,8 +27,9 @@
 </br>
 </br>
 
-📫 Você pode falar comigo pelo [Gmail](sopmartinidea@gmail.com) ou pelo [Instagram](https://instagram.com/sopmartinia_) Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
+📫 Você pode falar comigo pelo [Gmail](sopmartinidea@gmail.com) ou pelo [Instagram](https://instagram.com/sopmartinia_). Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
 </br>
+****
 </br>
 📫 You can contact me via [Gmail](sopmartinidea@gmail.com) or [Instagram](https://instagram.com/sopmartinia_). Feel free to check out my previously developed projects, available here in the repositories.
 
