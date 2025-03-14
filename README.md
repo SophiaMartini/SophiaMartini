@@ -2,10 +2,10 @@
 </br>
 </br>
 </br>
-## Hello, guyss!
-- ✍🏻 I work as a student of system development technician of SENAC - DF 
-- 💡 I try to focus on improve my knowledge
-- 🇧🇷  Brasilia - Brazil
+<strong>Hello, guyss!</strong>
+<br/>- ✍🏻 I work as a student of system development technician of SENAC - DF 
+<br/>- 💡 I try to focus on improve my knowledge
+</br>- 🇧🇷  Brasilia - Brazil
 - 🔊 English and Spanish speaker
   
 ### 🖥️ Tecnologias e Ferramentas: 
