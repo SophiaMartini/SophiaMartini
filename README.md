@@ -1,20 +1,7 @@
  <h1 align="left">Hey, I'm Sophia Martini 🤙🏻</h1>
- <a href="https://www.instagram.com/sopmartinia_/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="www.linkedin.com/in/sophiamartinidealbuquerque">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-
-</div>
-
-
-
-
-
 </br>
 </br>
-
+</br>
 ## Hello, guyss!
 - ✍🏻 I work as a student of system development technician of SENAC - DF 
 - 💡 I try to focus on improve my knowledge
@@ -52,16 +39,14 @@
 <a href="https://github.com/SophiaMartini">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sophiamartini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sophiamartini&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-br
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=SophiaMartini&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
  [![SophiaMartini github stats](https://bad-apple-github-readme.vercel.app/api?username=SophiaMartini&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
 [![SophiaMartini current streak](https://streak-stats.demolab.com/?user=SophiaMartini&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
+</a>
+</p>
  ### TROPHIES
  
 
