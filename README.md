@@ -1,9 +1,6 @@
- <h1 align="left">Hey, I'm Sophia Martini 🤙🏻</h1>
+ <h1 align="left">Hey, I'm Sophia Martini</h1>
 </br>
-</br>
-</br>
-<h4><strong>Hello, guyss!</strong></h4>
-<br/>- ✍🏻 I work as a student of system development technician of SENAC - DF 
+<br/>- ✍🏻 I worked as a student of system development technician of SENAC - DF 
 <br/>- 💡 I try to focus on improve my knowledge
 </br>- 🇧🇷  Brasilia - Brazil
 </br>- 🔊 English and Spanish speaker
